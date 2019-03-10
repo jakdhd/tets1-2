@@ -1,6 +1,6 @@
-token=NTA4ODg5NjkwOTE3ODMwNjU2.DsTO-w.zygbyl3b0Y7YGRPlALhSPMddRPI
-owner=350056492117917698
-prefix= t
+token=NTU0MzQxMzAwMTQxMjkzNTY4.D2bOUw.hlLYBRhW2EJDgyOmLNTm8sK0YTg
+owner=545624279513825332
+prefix= j
 game= !uhelp
 stayinchannel=true
 songinstatus=true 
